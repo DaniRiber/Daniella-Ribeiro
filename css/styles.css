@@ -1,0 +1,59 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 70px;
+  margin: 40px auto 0 auto;
+  font-family: 'Zen Kurenaido', sans-serif;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.developer{
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Roboto Mono', monospace;
+}
+
+a{
+  color: #11999E;
+}
+
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container{
+  background-color: white;
+}
+
+.contact-me{
+  background-color: white;
+  padding-bottom: 20px; 
+}
+
+.bottom-container{
+  margin-bottom: 0px;
+  background-color: #E4F9F5;
+}
+
+.dev{
+  text-decoration: underline;
+}
+
+.profile{
+  margin-top: 50px;
+}
