@@ -1,0 +1,135 @@
+/* tag */
+
+a{
+  color: #11999E;
+}
+
+body{
+  background-color: #66BFBF;
+  font-family: 'Roboto Mono', monospace;
+  margin: 0;
+  text-align: center;  
+}
+
+hr{
+  border-color: #D9D9D9;
+  border-style: dotted none none none;
+  border-width: thick;
+  height: 2px;
+  margin: 80px auto 80px auto;
+  width: 4%;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-size: 70px;
+  margin: 40px auto 0 auto;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Roboto Mono', monospace;
+}
+
+
+/* class */
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+}
+
+.BUTTON_CONTACT {
+   background: #0DD9DF;
+   background-image: -webkit-linear-gradient(top, #0DD9DF, #11999E);
+   background-image: -moz-linear-gradient(top, #0DD9DF, #11999E);
+   background-image: -ms-linear-gradient(top, #0DD9DF, #11999E);
+   background-image: -o-linear-gradient(top, #0DD9DF, #11999E);
+   background-image: -webkit-gradient(to bottom, #0DD9DF, #11999E);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #EAF6F6;
+   font-family: Tahoma;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 11px;
+   -webkit-box-shadow: 0 1px 6px 0 #1FA3A3;
+   -moz-box-shadow: 0 1px 6px 0 #1FA3A3;
+   box-shadow: 0 1px 6px 0 #1FA3A3;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_CONTACT:hover {
+   background: #11BBC1;
+   border: solid #129A9F 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.dev{
+  text-decoration: underline;
+}
+
+.developer{
+  font-weight: normal;
+}
+
+.first-img{
+  width: 30%;
+}
+
+.footer-link{
+  color: #0B6A6E;
+  line-height: 2;
+  font-weight: bold;
+}
+
+.footer-link-name{
+  color: #EAF6F6;
+  font-size: 13px;
+}
+
+.middle-container{
+  background-color: white;
+  padding-bottom: 50px;
+}
+
+.profile{
+  margin-top: 50px;
+}
+
+.skill-css{
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-html{
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row{
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  padding-top: 50px;
+  position: relative;
+}
