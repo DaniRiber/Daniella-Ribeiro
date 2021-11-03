@@ -1,0 +1,134 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  background-color: #66BFBF;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 70px;
+  margin: 40px auto 0 auto;
+  font-family: 'Zen Kurenaido', sans-serif;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.developer{
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Roboto Mono', monospace;
+}
+
+hr{
+  margin: 80px auto 80px auto;
+  border-color: #D9D9D9;
+  border-style: dotted none none none;
+  border-width: thick;
+  height: 2px;
+  width: 4%;
+}
+
+a{
+  color: #11999E;
+}
+
+.first{
+  width: 30%;
+}
+
+.footer-link{
+  color: #0B6A6E;
+  line-height: 2;
+  font-weight: bold;
+}
+
+.footer-link-name{
+  color: #EAF6F6;
+  font-size: 13px;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 50px;
+
+}
+
+.middle-container{
+  background-color: white;
+  padding-bottom: 50px;
+}
+
+
+.bottom-container{
+  padding-top: 50px;
+  background-color: #66BFBF;
+}
+
+.dev{
+  text-decoration: underline;
+}
+
+.profile{
+  margin-top: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.skill-html{
+  float: left;
+  margin-right: 30px;
+
+}
+
+.skill-css{
+  float: right;
+  margin-left: 30px;
+}
+
+.BUTTON_CONTACT {
+   background: #0DD9DF;
+   background-image: -webkit-linear-gradient(top, #0DD9DF, #11999E);
+   background-image: -moz-linear-gradient(top, #0DD9DF, #11999E);
+   background-image: -ms-linear-gradient(top, #0DD9DF, #11999E);
+   background-image: -o-linear-gradient(top, #0DD9DF, #11999E);
+   background-image: -webkit-gradient(to bottom, #0DD9DF, #11999E);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #EAF6F6;
+   font-family: Tahoma;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 11px;
+   -webkit-box-shadow: 0 1px 6px 0 #1FA3A3;
+   -moz-box-shadow: 0 1px 6px 0 #1FA3A3;
+   box-shadow: 0 1px 6px 0 #1FA3A3;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_CONTACT:hover {
+   background: #11BBC1;
+   border: solid #129A9F 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
